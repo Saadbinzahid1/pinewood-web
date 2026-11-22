@@ -1,3 +1,7 @@
 export default function Page() {
-  return <h1>About the Pinewood</h1>;
+  return (
+    <div>
+      <h1>About the Pinewood</h1>
+    </div>
+  );
 }
